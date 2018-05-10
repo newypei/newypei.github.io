@@ -7,7 +7,7 @@ My research interests include
 - OpenStack
 
 == Projects
-Tricircle: An OpenStack big-tent project for networking automation across Neutron. ([https://wiki.openstack.org/wiki/Tricircle/ Homepage])~([https://github.com/openstack/tricircle] Source Code)
+Tricircle: An OpenStack big-tent project for networking automation across Neutron. ([https://wiki.openstack.org/wiki/Tricircle/ Homepage])~([https://github.com/openstack/tricircle Source Code])
 - Dynamic pod binding (in Ocata Version)
 - Load-Balancing-as-a-Service (in Queens Version)
 - L3 networking model (ongoing in Rocky Version)
