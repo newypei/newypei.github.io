@@ -2,7 +2,7 @@
 ==Yipei Niu 
 
 ~~~
-{}{img_left}{bio.jpg}{alt text}{131}{160}{http://newypei.github.io/}
+{}{img_left}{bio.jpg}{alt text}{}{160}{http://newypei.github.io/}
 PhD candidate,\n 
 [http://grid.hust.edu.cn/ Services Computing Technology and System Lab], \n
 [http://english.cs.hust.edu.cn/ Department of Computer Science and Technology], \n
@@ -19,11 +19,10 @@ I received the B.S. and M.Sc. degrees in computer engineering from Iran Universi
 
 == Research
 My research interests include 
-- Convex Optimisation  
-- Distributed Algorithms
-- Real-time Sensor Networking
-- Wireless Networks
-- Machine Learning
+- Online Algorithm  
+- Queueing Theory
+- Hybrid Cloud
+- OpenStack
 
 [research.html Find out more].
 === Recent Publications 
