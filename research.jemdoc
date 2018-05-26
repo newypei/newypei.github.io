@@ -14,9 +14,9 @@ My research interests include
 
 === Conference
 . Yipei Niu, Fangming Liu, Zongpeng Li, \"Load Balancing across Microservices\", in Proc. of IEEE INFOCOM, Honolulu, Hawaii, USA, April, 2018
-. Yipei Niu, Fangming Liu, Xincai Fei, and Bo Li, \"Handling Flash Deals with Soft Guarantee in Hybrid Cloud\", in Proc. of IEEE INFOCOM, Atlanta, Georgia, USA, May, 2017
-. Yipei Niu, Bin Luo, Fangming Liu, Jiangchuan Liu, and Bo Li, \"When Hybrid Cloud Meets Flash Crowd: Towards Cost-Effective Service Provisioning\", in Proc. of IEEE INFOCOM, HK, China, April, 2015
-. Bin Luo, Yipei Niu, and Fangming Liu, \"Cost-effective service provisioning for hybrid cloud applications\", in Proc. of EAI CollaborateCom, Wuhan, China, November, 2015
+. Yipei Niu, Fangming Liu, Xincai Fei, Bo Li, \"Handling Flash Deals with Soft Guarantee in Hybrid Cloud\", in Proc. of IEEE INFOCOM, Atlanta, Georgia, USA, May, 2017
+. Yipei Niu, Bin Luo, Fangming Liu, Jiangchuan Liu, Bo Li, \"When Hybrid Cloud Meets Flash Crowd: Towards Cost-Effective Service Provisioning\", in Proc. of IEEE INFOCOM, HK, China, April, 2015
+. Bin Luo, Yipei Niu, Fangming Liu, \"Cost-effective service provisioning for hybrid cloud applications\", in Proc. of EAI CollaborateCom, Wuhan, China, November, 2015
 
 == Projects
 Tricircle: An OpenStack big-tent project for networking automation across Neutron. ([https://wiki.openstack.org/wiki/Tricircle Homepage])~([https://github.com/openstack/tricircle/ Source Code])
