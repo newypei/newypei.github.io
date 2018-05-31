@@ -9,10 +9,10 @@ My research interests include hybrid cloud, NFV, online algorithms, and queueing
 . Fangming Liu, Bin Luo, Yipei Niu, \"Cost-Effective Service Provisioning for Hybrid Cloud Applications\", ACM/Springer Journal on Mobile Networks and Applications (MONET), April 2017, Volume 22, Issue 2, pp 153–160. ([files/monet.pdf paper]) 
 
 === Conference
-. Yipei Niu, Fangming Liu, Zongpeng Li, \"Load Balancing across Microservices\", in Proc. of IEEE INFOCOM, Honolulu, Hawaii, USA, April, 2018. ([files/infocom2018.pdf] paper) ([files/INFOCOM2018-Slides-v5.pdf] slides) 
-. Yipei Niu, Fangming Liu, Xincai Fei, Bo Li, \"Handling Flash Deals with Soft Guarantee in Hybrid Cloud\", in Proc. of IEEE INFOCOM, Atlanta, Georgia, USA, May, 2017. ([files/infocom2017.pdf] paper) ([files/INFOCOM2017-Slides-v3.pdf] slides) 
-. Yipei Niu, Bin Luo, Fangming Liu, Jiangchuan Liu, Bo Li, \"When Hybrid Cloud Meets Flash Crowd: Towards Cost-Effective Service Provisioning\", in Proc. of IEEE INFOCOM, Hong Kong, China, April, 2015. ([files/infocom2015.pdf] paper) ([files/INFOCOM2015-Slides.pdf] slides)
-. Bin Luo, Yipei Niu, Fangming Liu, \"Cost-effective service provisioning for hybrid cloud applications\", in Proc. of EAI CollaborateCom, Wuhan, China, November, 2015. ([files/collaboratecom2015.pdf] paper)
+. Yipei Niu, Fangming Liu, Zongpeng Li, \"Load Balancing across Microservices\", in Proc. of IEEE INFOCOM, Honolulu, Hawaii, USA, April, 2018. ([files/infocom2018.pdf paper]) ([files/INFOCOM2018-Slides-v5.pdf slides]) 
+. Yipei Niu, Fangming Liu, Xincai Fei, Bo Li, \"Handling Flash Deals with Soft Guarantee in Hybrid Cloud\", in Proc. of IEEE INFOCOM, Atlanta, Georgia, USA, May, 2017. ([files/infocom2017.pdf paper]) ([files/INFOCOM2017-Slides-v3.pdf slides]) 
+. Yipei Niu, Bin Luo, Fangming Liu, Jiangchuan Liu, Bo Li, \"When Hybrid Cloud Meets Flash Crowd: Towards Cost-Effective Service Provisioning\", in Proc. of IEEE INFOCOM, Hong Kong, China, April, 2015. ([files/infocom2015.pdf paper]) ([files/INFOCOM2015-Slides.pdf slides])
+. Bin Luo, Yipei Niu, Fangming Liu, \"Cost-effective service provisioning for hybrid cloud applications\", in Proc. of EAI CollaborateCom, Wuhan, China, November, 2015. ([files/collaboratecom2015.pdf paper])
 
 == Projects
 Tricircle: An OpenStack big-tent project for networking automation across Neutron. ([https://wiki.openstack.org/wiki/Tricircle Homepage])~([https://github.com/openstack/tricircle/ Source code])
