@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{research.html}, notime
 = Research
 
-My research interests include hybrid cloud, NFV, online algorithms, and queueing theory.
+My research interests include hybrid cloud, FPGA, NFV, online algorithms, and queueing theory.
 
 == Publications
 
@@ -9,6 +9,7 @@ My research interests include hybrid cloud, NFV, online algorithms, and queueing
 . Fangming Liu, Bin Luo, Yipei Niu, \"Cost-Effective Service Provisioning for Hybrid Cloud Applications\", ACM/Springer Journal on Mobile Networks and Applications (MONET), April 2017, Volume 22, Issue 2, pp 153–160. ([files/monet.pdf paper]) 
 
 === Conference
+. Panpan Jin, Jian Guo, Yikai Xiao, Rong Shi, Yipei Niu, Fangming Liu, Chen Qian, and Yang Wang, \"PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing\", to appear in Proc. of USENIX ATC, Renton, WA, USA ,July, 2019. ([files/atc2019.pdf paper]) ([files/atc2019-Slides-v5.pdf slides]) ([https://newypei.github.io/ lighting talk]) 
 . Yipei Niu, Fangming Liu, Zongpeng Li, \"Load Balancing across Microservices\", in Proc. of IEEE INFOCOM, Honolulu, Hawaii, USA, April, 2018. ([files/infocom2018.pdf paper]) ([files/INFOCOM2018-Slides-v5.pdf slides]) 
 . Yipei Niu, Fangming Liu, Xincai Fei, Bo Li, \"Handling Flash Deals with Soft Guarantee in Hybrid Cloud\", in Proc. of IEEE INFOCOM, Atlanta, Georgia, USA, May, 2017. ([files/infocom2017.pdf paper]) ([files/INFOCOM2017-Slides-v3.pdf slides]) 
 . Yipei Niu, Bin Luo, Fangming Liu, Jiangchuan Liu, Bo Li, \"When Hybrid Cloud Meets Flash Crowd: Towards Cost-Effective Service Provisioning\", in Proc. of IEEE INFOCOM, Hong Kong, China, April, 2015. ([files/infocom2015.pdf paper]) ([files/INFOCOM2015-Slides.pdf slides])
@@ -18,4 +19,4 @@ My research interests include hybrid cloud, NFV, online algorithms, and queueing
 Tricircle: An OpenStack big-tent project for networking automation across Neutron. ([https://wiki.openstack.org/wiki/Tricircle Homepage])~([https://github.com/openstack/tricircle/ Source code])
 - Dynamic pod binding (in Newton version)~([https://github.com/openstack/tricircle/blob/master/specs/newton/dynamic-pod-binding.rst spec])
 - Load-Balancing-as-a-Service (in Queens version)~([https://github.com/openstack/tricircle/blob/master/specs/queens/lbaas.rst spec])
-- L3 networking model (ongoing in Stein version)~([https://github.com/openstack/tricircle/blob/master/specs/stein/new-l3-networking-mulit-NS-with-EW.rst spec])
+- L3 networking model (in Stein version)~([https://github.com/openstack/tricircle/blob/master/specs/stein/new-l3-networking-mulit-NS-with-EW.rst spec])
