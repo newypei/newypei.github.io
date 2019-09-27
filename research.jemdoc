@@ -17,6 +17,6 @@ My research interests include hybrid cloud, FPGA for acceleration, container net
 
 == Projects
 Tricircle: An OpenStack big-tent project for networking automation across Neutron. ([https://wiki.openstack.org/wiki/Tricircle Homepage])~([https://github.com/openstack/tricircle/ Source code])~([https://www.stackalytics.com/?project_type=all&metric=loc&release=all&module=tricircle-group Statistics])
-- Dynamic pod binding (in Newton version)~([https://review.opendev.org/#/c/306224/ spec])
-- Load-Balancing-as-a-Service (in Queens version)~([https://review.opendev.org/#/c/500520/ spec])
-- L3 networking model (in Stein version)~([https://review.opendev.org/#/c/530904/ spec])
+- Dynamic pod binding (in Newton version)~([https://review.opendev.org/#/c/306224 spec])
+- Load-Balancing-as-a-Service (in Queens version)~([https://review.opendev.org/#/c/500520 spec])
+- L3 networking model (in Stein version)~([https://review.opendev.org/#/c/530904 spec])
