@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{research.html}, notime
 = Research
 
-My research interests include hybrid cloud, FPGA for acceleration, container network, online algorithms, and queueing theory.
+My research interests include hybrid cloud, FPGA for acceleration, container networks, online algorithms, and queueing theory.
 
 == Publications
 
@@ -17,6 +17,6 @@ My research interests include hybrid cloud, FPGA for acceleration, container net
 
 == Projects
 Tricircle: An OpenStack big-tent project for networking automation across Neutron. ([https://wiki.openstack.org/wiki/Tricircle Homepage])~([https://github.com/openstack/tricircle/ Source code])~([https://www.stackalytics.com/?project_type=all&metric=loc&release=all&module=tricircle-group Statistics])
-- Dynamic pod binding (in Newton version)~([https://github.com/openstack/tricircle/blob/master/specs/newton/dynamic-pod-binding.rst spec])
-- Load-Balancing-as-a-Service (in Queens version)~([https://github.com/openstack/tricircle/blob/master/specs/queens/lbaas.rst spec])
-- L3 networking model (in Stein version)~([https://github.com/openstack/tricircle/blob/master/specs/stein/new-l3-networking-mulit-NS-with-EW.rst spec])
+- Dynamic pod binding (in Newton version)~([https://review.opendev.org/#/c/306224/ spec])
+- Load-Balancing-as-a-Service (in Queens version)~([https://review.opendev.org/#/c/500520/ spec])
+- L3 networking model (in Stein version)~([https://review.opendev.org/#/c/530904/ spec])
