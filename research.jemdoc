@@ -6,6 +6,7 @@ My research interests include hybrid cloud, FPGA for acceleration, container net
 == Publications
 
 === Journal
+. Xiuxiu Wang, Yipei Niu, Fangming Liu, and Zichen Xu, \"When FPGA Meets Cloud: A First Look at Performance\", to appear in IEEE Transactions on Cloud Computing, 2020. ([files/fpga-measurement.pdf preprint]) 
 . Fangming Liu, Bin Luo, Yipei Niu, \"Cost-Effective Service Provisioning for Hybrid Cloud Applications\", ACM/Springer Journal on Mobile Networks and Applications (MONET), April 2017, Volume 22, Issue 2, pp 153–160. ([files/monet.pdf paper]) 
 
 === Conference
