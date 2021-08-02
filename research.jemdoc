@@ -7,7 +7,7 @@ My research interests include serverless, hybrid cloud, FPGA for acceleration, c
 
 === Journal
 
-. Yipei Niu, Panpan Jin, Jian Guo, Yikai Xiao, Rong Shi, Fangming Liu, Chen Qian, and Yang Wang, \"PostMan: Rapidly Mitigating Bursty Traffic via On-demand Offloading of Packet Processing\", IEEE Transactions on Parallel and Distributed Systems (TPDS), Volume: 33, Issue: 2, pp 374-387, Feb 2022. ([files/postman-tpds.pdf paper]) 
+. Yipei Niu, Panpan Jin, Jian Guo, Yikai Xiao, Rong Shi, Fangming Liu, Chen Qian, and Yang Wang, \"PostMan: Rapidly Mitigating Bursty Traffic via On-demand Offloading of Packet Processing\", IEEE Transactions on Parallel and Distributed Systems (TPDS), Volume 33, Issue 2, pp 374-387, Feb 2022. ([files/postman-tpds.pdf paper]) 
 . Xiuxiu Wang, Yipei Niu, Fangming Liu, and Zichen Xu, \"When FPGA Meets Cloud: A First Look at Performance\", to appear in IEEE Transactions on Cloud Computing (TCC), 2020. ([files/fpga-measurement.pdf preprint]) 
 . Fangming Liu, Bin Luo, Yipei Niu, \"Cost-Effective Service Provisioning for Hybrid Cloud Applications\", ACM/Springer Journal on Mobile Networks and Applications (MONET), Volume 22, Issue 2, pp 153–160, Apr 2017. ([files/monet.pdf paper]) 
 
